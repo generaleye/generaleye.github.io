@@ -44,7 +44,7 @@ GALLERY
 	margin: 0;
 	padding: 5%;
 	font-size: 0.75em;
-	color: #bdc3c7;
+	color: #454545;
 }
 
 .profile-photo {
@@ -130,12 +130,12 @@ footer {
 
 /* links */
 a {
-	color: #6ab47b;
+	color: #064379;
 }
 
 header {
-	background: #6ab47b;
-	border-color: #599a68;
+	background: #1e73be;
+	border-color: #064379;
 }
 
 h1, h2 {
@@ -143,7 +143,7 @@ h1, h2 {
 }
 /* navigation bar */
 nav {
-	background: #599a68;
+	background: #064379;
 }
 
 nav a, nav a:visited {
@@ -151,7 +151,7 @@ nav a, nav a:visited {
 }
 
 nav a.selected, nav a:hover {
-	color: #32673f;
+	color: #064379;
 }
 /* site body */
 body {
